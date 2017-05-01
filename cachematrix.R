@@ -1,4 +1,4 @@
-## This file contains definition of two funcitons which is used to calculate
+## This file contains definition of two functions which is used to calculate
 ## the inverse of a matrix and cache the result. Functions defined in this 
 ## file assumes that the matrix supplied is always invertible .
 
